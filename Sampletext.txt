@@ -1,3 +1,4 @@
 ECHO is on.
 echo is completed
 the build is automatically updated
+the build is running perfectly fine
