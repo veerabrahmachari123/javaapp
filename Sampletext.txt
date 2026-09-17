@@ -1,2 +1,3 @@
 ECHO is on.
 echo is completed
+the build is automatically updated
